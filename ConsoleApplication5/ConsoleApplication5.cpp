@@ -20,5 +20,13 @@ int main() {
     std::cin.getline(str, 100);
     std::cout << str << std::endl;
     std::cout <<"Мы начали изучать Git!" << std::endl;
+    std::cout << "Мы начали изучать Git!" << std::endl;
+    std::cout << "Мы начали изучать Git!" << std::endl;
+    std::cout << "Мы начали изучать Git!" << std::endl;
+    std::cout << "Мы начали изучать Git!" << std::endl;
+    std::cout << "Мы начали изучать Git!" << std::endl;
+    std::cout << "Мы начали изучать Git!" << std::endl;
+    std::cout << "Мы начали изучать Git!" << std::endl;
+
     return 0;
 }
